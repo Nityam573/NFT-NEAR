@@ -1,0 +1,1 @@
+{"rustc":8349863189884543492,"features":"[]","target":6381538922964069978,"profile":13178609178403335023,"path":1394294533161641688,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"debug\\.fingerprint\\webpki-roots-71f528e89349bd0a\\dep-lib-webpki-roots"}}],"rustflags":["-C","link-args=-s"],"metadata":6348929059546778250,"config":2202906307356721367,"compile_kind":0}

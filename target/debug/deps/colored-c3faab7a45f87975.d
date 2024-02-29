@@ -1,0 +1,10 @@
+C:\Users\NITYAM TRIPATHI\OneDrive\Desktop\MP\target\debug\deps\libcolored-c3faab7a45f87975.rmeta: C:\Users\NITYAM\ TRIPATHI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.1.0\src\lib.rs C:\Users\NITYAM\ TRIPATHI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.1.0\src\color.rs C:\Users\NITYAM\ TRIPATHI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.1.0\src\control.rs C:\Users\NITYAM\ TRIPATHI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.1.0\src\error.rs C:\Users\NITYAM\ TRIPATHI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.1.0\src\style.rs C:\Users\NITYAM\ TRIPATHI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.1.0\src\customcolors.rs
+
+C:\Users\NITYAM TRIPATHI\OneDrive\Desktop\MP\target\debug\deps\colored-c3faab7a45f87975.d: C:\Users\NITYAM\ TRIPATHI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.1.0\src\lib.rs C:\Users\NITYAM\ TRIPATHI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.1.0\src\color.rs C:\Users\NITYAM\ TRIPATHI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.1.0\src\control.rs C:\Users\NITYAM\ TRIPATHI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.1.0\src\error.rs C:\Users\NITYAM\ TRIPATHI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.1.0\src\style.rs C:\Users\NITYAM\ TRIPATHI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.1.0\src\customcolors.rs
+
+C:\Users\NITYAM\ TRIPATHI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.1.0\src\lib.rs:
+C:\Users\NITYAM\ TRIPATHI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.1.0\src\color.rs:
+C:\Users\NITYAM\ TRIPATHI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.1.0\src\control.rs:
+C:\Users\NITYAM\ TRIPATHI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.1.0\src\error.rs:
+C:\Users\NITYAM\ TRIPATHI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.1.0\src\style.rs:
+C:\Users\NITYAM\ TRIPATHI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\colored-2.1.0\src\customcolors.rs:

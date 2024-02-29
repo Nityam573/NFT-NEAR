@@ -1,0 +1,8 @@
+C:\Users\NITYAM TRIPATHI\OneDrive\Desktop\nft-mp\MP\target\debug\deps\impl_trait_for_tuples-39ce5e30ec12fda4.dll: C:\Users\NITYAM\ TRIPATHI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\impl-trait-for-tuples-0.2.2\src\lib.rs C:\Users\NITYAM\ TRIPATHI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\impl-trait-for-tuples-0.2.2\src\full_automatic.rs C:\Users\NITYAM\ TRIPATHI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\impl-trait-for-tuples-0.2.2\src\semi_automatic.rs C:\Users\NITYAM\ TRIPATHI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\impl-trait-for-tuples-0.2.2\src\utils.rs
+
+C:\Users\NITYAM TRIPATHI\OneDrive\Desktop\nft-mp\MP\target\debug\deps\impl_trait_for_tuples-39ce5e30ec12fda4.d: C:\Users\NITYAM\ TRIPATHI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\impl-trait-for-tuples-0.2.2\src\lib.rs C:\Users\NITYAM\ TRIPATHI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\impl-trait-for-tuples-0.2.2\src\full_automatic.rs C:\Users\NITYAM\ TRIPATHI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\impl-trait-for-tuples-0.2.2\src\semi_automatic.rs C:\Users\NITYAM\ TRIPATHI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\impl-trait-for-tuples-0.2.2\src\utils.rs
+
+C:\Users\NITYAM\ TRIPATHI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\impl-trait-for-tuples-0.2.2\src\lib.rs:
+C:\Users\NITYAM\ TRIPATHI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\impl-trait-for-tuples-0.2.2\src\full_automatic.rs:
+C:\Users\NITYAM\ TRIPATHI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\impl-trait-for-tuples-0.2.2\src\semi_automatic.rs:
+C:\Users\NITYAM\ TRIPATHI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\impl-trait-for-tuples-0.2.2\src\utils.rs:

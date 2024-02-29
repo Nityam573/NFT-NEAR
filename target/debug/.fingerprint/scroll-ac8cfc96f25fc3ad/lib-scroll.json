@@ -1,0 +1,1 @@
+{"rustc":8349863189884543492,"features":"[\"default\", \"std\"]","target":15214578855684371617,"profile":14473208297124147686,"path":6089778319855524942,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"debug\\.fingerprint\\scroll-ac8cfc96f25fc3ad\\dep-lib-scroll"}}],"rustflags":["-C","link-args=-s"],"metadata":12080093197907106354,"config":2202906307356721367,"compile_kind":0}

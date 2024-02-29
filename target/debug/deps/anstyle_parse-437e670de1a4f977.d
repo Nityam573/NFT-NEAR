@@ -1,0 +1,9 @@
+C:\Users\NITYAM TRIPATHI\OneDrive\Desktop\MP\target\debug\deps\libanstyle_parse-437e670de1a4f977.rmeta: C:\Users\NITYAM\ TRIPATHI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.3\src\lib.rs C:\Users\NITYAM\ TRIPATHI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.3\src\params.rs C:\Users\NITYAM\ TRIPATHI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.3\src\state\mod.rs C:\Users\NITYAM\ TRIPATHI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.3\src\state\definitions.rs C:\Users\NITYAM\ TRIPATHI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.3\src\state\table.rs
+
+C:\Users\NITYAM TRIPATHI\OneDrive\Desktop\MP\target\debug\deps\anstyle_parse-437e670de1a4f977.d: C:\Users\NITYAM\ TRIPATHI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.3\src\lib.rs C:\Users\NITYAM\ TRIPATHI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.3\src\params.rs C:\Users\NITYAM\ TRIPATHI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.3\src\state\mod.rs C:\Users\NITYAM\ TRIPATHI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.3\src\state\definitions.rs C:\Users\NITYAM\ TRIPATHI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.3\src\state\table.rs
+
+C:\Users\NITYAM\ TRIPATHI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.3\src\lib.rs:
+C:\Users\NITYAM\ TRIPATHI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.3\src\params.rs:
+C:\Users\NITYAM\ TRIPATHI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.3\src\state\mod.rs:
+C:\Users\NITYAM\ TRIPATHI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.3\src\state\definitions.rs:
+C:\Users\NITYAM\ TRIPATHI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-parse-0.2.3\src\state\table.rs:

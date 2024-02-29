@@ -1,0 +1,11 @@
+/mnt/c/Users/NITYAM TRIPATHI/OneDrive/Desktop/MP/target/wasm32-unknown-unknown/release/deps/libwee_alloc-b8b595f79aa258d4.rmeta: /home/nityam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wee_alloc-0.4.5/src/lib.rs /home/nityam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wee_alloc-0.4.5/src/extra_assert.rs /home/nityam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wee_alloc-0.4.5/src/const_init.rs /home/nityam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wee_alloc-0.4.5/src/neighbors.rs /home/nityam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wee_alloc-0.4.5/src/imp_wasm32.rs
+
+/mnt/c/Users/NITYAM TRIPATHI/OneDrive/Desktop/MP/target/wasm32-unknown-unknown/release/deps/libwee_alloc-b8b595f79aa258d4.rlib: /home/nityam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wee_alloc-0.4.5/src/lib.rs /home/nityam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wee_alloc-0.4.5/src/extra_assert.rs /home/nityam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wee_alloc-0.4.5/src/const_init.rs /home/nityam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wee_alloc-0.4.5/src/neighbors.rs /home/nityam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wee_alloc-0.4.5/src/imp_wasm32.rs
+
+/mnt/c/Users/NITYAM TRIPATHI/OneDrive/Desktop/MP/target/wasm32-unknown-unknown/release/deps/wee_alloc-b8b595f79aa258d4.d: /home/nityam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wee_alloc-0.4.5/src/lib.rs /home/nityam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wee_alloc-0.4.5/src/extra_assert.rs /home/nityam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wee_alloc-0.4.5/src/const_init.rs /home/nityam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wee_alloc-0.4.5/src/neighbors.rs /home/nityam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wee_alloc-0.4.5/src/imp_wasm32.rs
+
+/home/nityam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wee_alloc-0.4.5/src/lib.rs:
+/home/nityam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wee_alloc-0.4.5/src/extra_assert.rs:
+/home/nityam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wee_alloc-0.4.5/src/const_init.rs:
+/home/nityam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wee_alloc-0.4.5/src/neighbors.rs:
+/home/nityam/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wee_alloc-0.4.5/src/imp_wasm32.rs:

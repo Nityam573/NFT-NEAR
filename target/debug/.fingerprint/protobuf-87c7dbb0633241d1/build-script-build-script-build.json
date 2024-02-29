@@ -1,0 +1,1 @@
+{"rustc":8349863189884543492,"features":"[]","target":2297296889237502566,"profile":13178609178403335023,"path":8093664149044053523,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"debug\\.fingerprint\\protobuf-87c7dbb0633241d1\\dep-build-script-build-script-build"}}],"rustflags":["-C","link-args=-s"],"metadata":5426954196421250083,"config":2202906307356721367,"compile_kind":0}

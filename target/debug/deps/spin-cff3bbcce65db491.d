@@ -1,0 +1,7 @@
+C:\Users\NITYAM TRIPATHI\OneDrive\Desktop\MP\target\debug\deps\libspin-cff3bbcce65db491.rmeta: C:\Users\NITYAM\ TRIPATHI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spin-0.9.8\src\lib.rs C:\Users\NITYAM\ TRIPATHI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spin-0.9.8\src\once.rs C:\Users\NITYAM\ TRIPATHI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spin-0.9.8\src\relax.rs
+
+C:\Users\NITYAM TRIPATHI\OneDrive\Desktop\MP\target\debug\deps\spin-cff3bbcce65db491.d: C:\Users\NITYAM\ TRIPATHI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spin-0.9.8\src\lib.rs C:\Users\NITYAM\ TRIPATHI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spin-0.9.8\src\once.rs C:\Users\NITYAM\ TRIPATHI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spin-0.9.8\src\relax.rs
+
+C:\Users\NITYAM\ TRIPATHI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spin-0.9.8\src\lib.rs:
+C:\Users\NITYAM\ TRIPATHI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spin-0.9.8\src\once.rs:
+C:\Users\NITYAM\ TRIPATHI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spin-0.9.8\src\relax.rs:

@@ -1,0 +1,7 @@
+C:\Users\NITYAM TRIPATHI\OneDrive\Desktop\MP\target\debug\deps\libopentelemetry_semantic_conventions-d7785947dd43b607.rmeta: C:\Users\NITYAM\ TRIPATHI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\opentelemetry-semantic-conventions-0.9.0\src\lib.rs C:\Users\NITYAM\ TRIPATHI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\opentelemetry-semantic-conventions-0.9.0\src\resource.rs C:\Users\NITYAM\ TRIPATHI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\opentelemetry-semantic-conventions-0.9.0\src\trace.rs
+
+C:\Users\NITYAM TRIPATHI\OneDrive\Desktop\MP\target\debug\deps\opentelemetry_semantic_conventions-d7785947dd43b607.d: C:\Users\NITYAM\ TRIPATHI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\opentelemetry-semantic-conventions-0.9.0\src\lib.rs C:\Users\NITYAM\ TRIPATHI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\opentelemetry-semantic-conventions-0.9.0\src\resource.rs C:\Users\NITYAM\ TRIPATHI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\opentelemetry-semantic-conventions-0.9.0\src\trace.rs
+
+C:\Users\NITYAM\ TRIPATHI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\opentelemetry-semantic-conventions-0.9.0\src\lib.rs:
+C:\Users\NITYAM\ TRIPATHI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\opentelemetry-semantic-conventions-0.9.0\src\resource.rs:
+C:\Users\NITYAM\ TRIPATHI\.cargo\registry\src\index.crates.io-6f17d22bba15001f\opentelemetry-semantic-conventions-0.9.0\src\trace.rs:
